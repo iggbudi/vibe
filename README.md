@@ -18,6 +18,7 @@ Kurikulum praktis untuk belajar **Vibe Coding**: pendekatan pengembangan softwar
 - [`materi/modul-1/`](materi/modul-1/) — Modul 1: Memulai dari Nol (5 lesson + proyek akhir)
 - [`materi/modul-2/`](materi/modul-2/) — Modul 2: Menambah Fitur di Aplikasi Existing (5 lesson + proyek akhir)
 - [`materi/modul-3/`](materi/modul-3/) — Modul 3: Chatbot untuk Otomasi & Analitik (5 lesson + proyek akhir)
+- [`materi/modul-4/`](materi/modul-4/) — Modul 4: Integrasi dengan Tools Existing & Third Party (5 lesson + proyek akhir)
 
 ## 🗺️ Struktur Kurikulum
 | Modul | Topik | Durasi |
