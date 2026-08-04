@@ -14,6 +14,7 @@ Kurikulum praktis untuk belajar **Vibe Coding**: pendekatan pengembangan softwar
 - `AGENTS.md` — panduan untuk agent AI yang mengerjakan project ini
 
 ## 📖 Materi
+- [`materi/modul-0/`](materi/modul-0/) — Modul 0: Fondasi Vibe Coding (5 lesson + praktikum)
 - [`materi/modul-1/`](materi/modul-1/) — Modul 1: Memulai dari Nol (5 lesson + proyek akhir)
 - [`materi/modul-2/`](materi/modul-2/) — Modul 2: Menambah Fitur di Aplikasi Existing (5 lesson + proyek akhir)
 
