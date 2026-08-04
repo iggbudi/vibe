@@ -1,0 +1,11 @@
+# Database lokal — jangan di-commit (data pribadi)
+catatan.db
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
