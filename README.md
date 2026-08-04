@@ -10,7 +10,11 @@ Kurikulum praktis untuk belajar **Vibe Coding**: pendekatan pengembangan softwar
 
 ## 📄 Dokumen
 - [`OUTLINE.md`](OUTLINE.md) — outline lengkap kurikulum (12 minggu, 5 modul + capstone)
+- [`REFERENSI.md`](REFERENSI.md) — hasil riset & sumber bahan (definisi, kritik, best practices)
 - `AGENTS.md` — panduan untuk agent AI yang mengerjakan project ini
+
+## 📖 Materi
+- [`materi/modul-1/`](materi/modul-1/) — Modul 1: Memulai dari Nol (5 lesson + proyek akhir)
 
 ## 🗺️ Struktur Kurikulum
 | Modul | Topik | Durasi |
